@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://max179.github.io/site-20260713-ai-api-pricing-guide/sitemap.xml
